@@ -1,8 +1,7 @@
 # widget-excel
 [中文](README_zh_CN.md ) [English](README.md )
-![](1.png)
 
-![](2.png)
+![](preview.png)
 
 ## 功能
 功能同widget-excel差不多,基于luckysheet.

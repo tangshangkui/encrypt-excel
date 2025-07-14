@@ -1,9 +1,6 @@
 # widget-excel
 [中文](README_zh_CN.md ) [English](README.md )
-![](1.png)
-
-![](2.png)
-
+![](preview.png)
 ## Function
 The functionality is similar to that of widget-excel, based on luckysheet.
 AES encryption is nested in the outer layer, and the data is saved in the widget properties.

@@ -3,6 +3,9 @@
 
 ![](preview.png)
 
+## 升级
+修复当单元格含有换行符 无法正常搜索的bug
+
 ## 功能
 功能同widget-excel差不多,基于luckysheet.
 在外层嵌套了AES加密,数据保存在挂件属性中.

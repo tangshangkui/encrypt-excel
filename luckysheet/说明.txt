@@ -1,0 +1,3 @@
+luckysheet.umd_old.js 在luckysheet项目是直接运行 npm run dev打包出来的(没有压缩js)
+
+luckysheet.umd.js 是根据项目需求修改后的代码,对比两个文件可以查看修改部分

@@ -1,6 +1,8 @@
 # widget-excel
 [中文](README_zh_CN.md ) [English](README.md )
 ![](preview.png)
+## 已知bug
+在历史文档和数据快照中无法查看历史表格内容(查看到的永远是最新的). 需要在数据快照中下载 sy.zip文件 然后再次导入思源笔记(作为一个新的文件)才能查看历史记录.
 ## Function
 The functionality is similar to that of widget-excel, based on luckysheet.
 AES encryption is nested in the outer layer, and the data is saved in the widget properties.
